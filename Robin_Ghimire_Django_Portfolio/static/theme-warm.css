@@ -1,0 +1,22 @@
+/* Warm/light theme overrides */
+:root{
+  --background: 40 95% 98%;
+  --foreground: 25 18% 12%;
+  --card: 40 95% 99%;
+  --card-foreground: 25 18% 12%;
+  --popover: 40 95% 99%;
+  --popover-foreground: 25 18% 12%;
+  --primary: 42 95% 48%;
+  --primary-foreground: 25 18% 12%;
+  --secondary: 30 25% 95%;
+  --secondary-foreground: 25 18% 45%;
+  --muted: 30 30% 92%;
+  --muted-foreground: 30 18% 55%;
+  --accent: 42 85% 55%;
+  --accent-foreground: 25 18% 12%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 30 20% 90%;
+  --input: 30 20% 96%;
+  --ring: 42 95% 48%;
+}
